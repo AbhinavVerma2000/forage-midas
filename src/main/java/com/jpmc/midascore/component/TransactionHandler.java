@@ -1,6 +1,6 @@
 package com.jpmc.midascore.component;
 
-import com.jpmc.midascore.entity.UserRecord;
+// import com.jpmc.midascore.entity.UserRecord;
 import com.jpmc.midascore.foundation.Incentive;
 import com.jpmc.midascore.foundation.Transaction;
 import org.slf4j.Logger;
